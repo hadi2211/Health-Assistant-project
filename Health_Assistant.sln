@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health_Assistant", "Health_Assistant\Health_Assistant.csproj", "{1242F1B9-BE8F-4EF2-AB60-9B30BF49D105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1242F1B9-BE8F-4EF2-AB60-9B30BF49D105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1242F1B9-BE8F-4EF2-AB60-9B30BF49D105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1242F1B9-BE8F-4EF2-AB60-9B30BF49D105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1242F1B9-BE8F-4EF2-AB60-9B30BF49D105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B33EA62-AE32-4736-8143-1BB70103E65B}
+	EndGlobalSection
+EndGlobal

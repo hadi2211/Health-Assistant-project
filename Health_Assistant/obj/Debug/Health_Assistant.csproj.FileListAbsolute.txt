@@ -1,0 +1,15 @@
+D:\Health_Assistant\Health_Assistant\bin\Debug\Health_Assistant.exe.config
+D:\Health_Assistant\Health_Assistant\bin\Debug\Health_Assistant.exe
+D:\Health_Assistant\Health_Assistant\bin\Debug\Health_Assistant.pdb
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.csprojAssemblyReference.cache
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.Form1.resources
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.Properties.Resources.resources
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.csproj.GenerateResource.cache
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.csproj.CoreCompileInputs.cache
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.exe
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.pdb
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.Food_Form.resources
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.Disease_form.resources
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.Daily_Routine.resources
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.HelpForm.resources
+D:\Health_Assistant\Health_Assistant\obj\Debug\Health_Assistant.About.resources
